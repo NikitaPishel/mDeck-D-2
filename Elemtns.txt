@@ -21,6 +21,7 @@ kbrd wire:  3.98    https://www.amazon.co.uk/Startech-Com-8In-Micro-Usb-Cable/dp
 22 AWG:     3.99    https://www.amazon.co.uk/Gruiqrd-AWG-0-32mm%C2%B2-Electrical-Wire/dp/B0CZRDMST5?crid=396YUAIXG1HR9&dib=eyJ2IjoiMSJ9.IolAq6ycAg5rbmz-3ArtaqdxfKDxII7P-n_m0BVAMfZx-X8XCxEVo2pVfiY_mxDjwze109pX-GpItDwh1PAp9EBDPhWeD2UGCviMJqHU2IoboIlbtP870zv_kX7Aqa7Rrz9QcL9N02Z5n3JWZpgbTFCm6tSPvTGPzUcrdI7HTxVvOpPCHS_EbTq4tcAnlHgqHILzOZXDH8tBZ1tMfpbgYpnldgTzdgSGJqOtw-t59yEBvUtDdd5jQiqGxeZHqz3GC9ooopfMm0wHX_khuVX5nvcFnVPyrO1WZpML4GnbtN8.YtAOOZVgJOxRL3WMaJFQAYORQgF6jR0P5BZvKIjag_Y&dib_tag=se&keywords=22%2Bawg%2Bwire&qid=1745937150&sprefix=22%2Bawg%2Bwire%2Caps%2C170&sr=8-7&th=1
 
 cutter:     3.99    https://www.amazon.co.uk/nuosen-Precision-Electrical-Cutting-Diagonal/dp/B07GCLHSTF?dib=eyJ2IjoiMSJ9.EZytlALiuhftwKhJLoj23FrU87P-pAlzCz4y-TG4TQOU5xM7OvSRSpMZV7xnEoGdj84CSDPvmaQPB7iMbwqPizaqIfCPU-9AZw2DAx0-b0ZvuOnZlmxJPqPbrkh0wYheGlZz-RwPExpTudMivKQyAbTP0AlltDM4zFC5WKhno5GVKA9r_b-MilSOI2OGrMe2tTgS0DxcqfuMo2soJxVnXWgK9w4I2vPckZaj5ItNGjoDlVNIKgIP7wemTi_MkoIEICkPLcVMV48EiHIDvAyjulI7QxZc7DmNBQQEOFTpjlo.0Fbr_hijpA82vq75yDmbIVZCPMNaY1SG9KUJGlgNBgs&dib_tag=se&keywords=flush+cutters&qid=1746141906&refinements=p_36%3A-700&rnid=118657031&sr=8-9
+wick:       3.59    https://www.amazon.co.uk/Desoldering-No-Clean-Electronic-Desolder-Soldering/dp/B0D93PR6LF?crid=25WMPI3HRSUQQ&dib=eyJ2IjoiMSJ9.T7U7FIGgzQlQoASgTL0iIhj-dQyarfv89WlTDSG4NyL6L3sG1eiA-CiCmTozIU6kLPxgkkmA9bBFU7OWq5ui0NT5Xma2mJWA5Uot9eDopnI5zXHPGguLVOiHICAVG4H461lK60oWGou5-gTDdtnHWRNuTjd8rQnw6UIzgn9Ip4EYjNTypiZlmSWOo-5EqF7fDUXkB0qQuMtBR8oUnCLb3VwBurf99pkvM_QDkHZGt2mmodqSHrTv2bgz-VjktvkSXv3O0kp73YWMghPSm3awpwhhTnsmWy8rn-moNO7ClZg.FN1KyONQC6KULm8iP5cRDe2TTJ8GVGKagLWEzLHlQmk&dib_tag=se&keywords=solder%2Bwick&qid=1748897637&s=industrial&sprefix=solder%2Bwick%2Cindustrial%2C68&sr=1-5&th=1
 
 =====
 
@@ -33,4 +34,4 @@ heatsink:   0.80    https://thepihut.com/products/mini-aluminum-heat-sink-for-ra
 
 =====
 
-FINAL:      ~123.54
+FINAL:      ~127.13
