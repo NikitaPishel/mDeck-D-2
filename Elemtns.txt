@@ -25,7 +25,8 @@ JST-PH 2:   4.99    https://www.amazon.co.uk/Micro-2-Pin-Connector-150mm-Female/
 
 cutter:     3.99    https://www.amazon.co.uk/nuosen-Precision-Electrical-Cutting-Diagonal/dp/B07GCLHSTF?dib=eyJ2IjoiMSJ9.EZytlALiuhftwKhJLoj23FrU87P-pAlzCz4y-TG4TQOU5xM7OvSRSpMZV7xnEoGdj84CSDPvmaQPB7iMbwqPizaqIfCPU-9AZw2DAx0-b0ZvuOnZlmxJPqPbrkh0wYheGlZz-RwPExpTudMivKQyAbTP0AlltDM4zFC5WKhno5GVKA9r_b-MilSOI2OGrMe2tTgS0DxcqfuMo2soJxVnXWgK9w4I2vPckZaj5ItNGjoDlVNIKgIP7wemTi_MkoIEICkPLcVMV48EiHIDvAyjulI7QxZc7DmNBQQEOFTpjlo.0Fbr_hijpA82vq75yDmbIVZCPMNaY1SG9KUJGlgNBgs&dib_tag=se&keywords=flush+cutters&qid=1746141906&refinements=p_36%3A-700&rnid=118657031&sr=8-9
 wick:       3.59    https://www.amazon.co.uk/Desoldering-No-Clean-Electronic-Desolder-Soldering/dp/B0D93PR6LF?crid=25WMPI3HRSUQQ&dib=eyJ2IjoiMSJ9.T7U7FIGgzQlQoASgTL0iIhj-dQyarfv89WlTDSG4NyL6L3sG1eiA-CiCmTozIU6kLPxgkkmA9bBFU7OWq5ui0NT5Xma2mJWA5Uot9eDopnI5zXHPGguLVOiHICAVG4H461lK60oWGou5-gTDdtnHWRNuTjd8rQnw6UIzgn9Ip4EYjNTypiZlmSWOo-5EqF7fDUXkB0qQuMtBR8oUnCLb3VwBurf99pkvM_QDkHZGt2mmodqSHrTv2bgz-VjktvkSXv3O0kp73YWMghPSm3awpwhhTnsmWy8rn-moNO7ClZg.FN1KyONQC6KULm8iP5cRDe2TTJ8GVGKagLWEzLHlQmk&dib_tag=se&keywords=solder%2Bwick&qid=1748897637&s=industrial&sprefix=solder%2Bwick%2Cindustrial%2C68&sr=1-5&th=1
-
+board:      3.75    https://www.amazon.co.uk/Rk-Education-Prototyping-Breadboard-points/dp/B08D1S2RH2?crid=1BRRL96Y3QQM4&dib=eyJ2IjoiMSJ9.SMPQOU0PKaFFhRFgvv7_rAlAUILg_lt_HFAwlBEneBTyW2SvvCusnA7mUh-NFVWc4kmKqyrnQ5CJdT0mBcbFacH_Ascw3n_t3UebiBBr3Fd9Etw1auuz4nAK3P5gpIjk4aiX6tAuxDOQXHAcVIqk8mhL7n3E3js9j3G-Z93YAqzndXqam5RGJEgzhZ3rGwkhKOCsRFDqKoxkqaZQDxnUtZeQe1lJ2ErnXZrym0nBa55_R8dpgy1IDJ-9K6rJ99kVh2Kdvx4QZi4ac42i21s6TwTiRWwaN7GRFW_izX_7x9w.YJeDxrXf2vesOri-2AqZjd5nLyQiw8Mxzh4MRKfJDqs&dib_tag=se&keywords=breadboard&qid=1749160688&refinements=p_36%3A-500%2Cp_72%3A419153031&rnid=419152031&sprefix=breadboard%2Caps%2C318&sr=8-18&th=1
+wires:      4.49    https://www.amazon.co.uk/AZDelivery-MB-102-Breadboard-Kit/dp/B07KKJ69DV?crid=1QKLJIP312EQN&dib=eyJ2IjoiMSJ9.x-Dpw1ddJDluUMPhDE9IiWY5NUUBhAE0_jAdFHw5Up0UAhxfmjodr2Ycub7cECNdgtRDgv_z4DWiQ4hyXlO61zI_n1CwuPqe1Cfl2LlzEDXdoSp4pl76rw2pjfrRrzABVeDH13jE0VhQlPMxR-DFy3Lk_Dcml9fpSCBz0VZtjslFNV4NsMChoX7BWeAsse6-xzln6JSJO_-4TR_HMp_lHHk6G8V7h7CQiVB-GTlSqhX911-pBEjGLLRj8i_-U27evNgSmaIVKq5VBU3EG1t_BYYa1aaG9RFKmjHpYKSVUt8.eLT0xxqiZungplrejN1apqQHrExlMLRQ805uyEXQslQ&dib_tag=se&keywords=breadboard%2Bjumper%2Bwires%2Bmale%2Bto%2Bmale&qid=1749160905&refinements=p_36%3A-500&rnid=118657031&sprefix=male%2Bto%2Bmale%2Bbread%2Caps%2C100&sr=8-20&th=1
 =====
 
 Pi Hut
@@ -37,4 +38,4 @@ heatsink:   0.80    https://thepihut.com/products/mini-aluminum-heat-sink-for-ra
 
 =====
 
-FINAL:      ~140.86
+FINAL:      ~144.8
